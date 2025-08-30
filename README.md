@@ -1,3 +1,5 @@
+Project- Superstore Sales Analysis
+
 Superstore Sales Analysis
 Introduction
 This project analyzes the "Sample – Superstore" dataset to uncover patterns in sales, profit, and regional performance. The workflow combined Python for data cleaning with Microsoft Power BI for visualization, resulting in an interactive dashboard that supports data-driven insights.
